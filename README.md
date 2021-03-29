@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there, I'm Moin Khan 👋
+### My GitHub Visitors
+![](https://visitor-badge.glitch.me/badge?page_id=moinakmalkhan)
+## I'm a Python Developer!!
+- 🔭 I’m currently working on Django and Machine learning.
+- 🌱 I’m currently learning Machine Learning and Deep Learning.
+- 👯 I’m looking to collaborate with other developers.
+- 🥅 2021 Goals: Contribute more to Open Source projects.
+- ⚡ Fun fact: I love to create memes🤣
+- 💬 Ask me about anything, I am happy to help;
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/moinakmalkhan)
+- 📫 Reach me via: [Email](mailto:moinakmalkhan@gmail.com)
+- 📫 Reach me via: [Linkedin](https://www.linkedin.com/in/moin-khan-6987821bb/)
 
-<!--
-**moinakmalkhan/moinakmalkhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<details>
+<summary>📈 My GitHub Stats</summary>
 
-Here are some ideas to get you started:
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=moinakmalkhan&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</details>
