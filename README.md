@@ -21,7 +21,7 @@
 
 <details>
 <summary>📈 Linkedin</summary>
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-<p align="center"> <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="moin-khan-6987821bb"><a class="LI-simple-link" href='https://pk.linkedin.com/in/moin-khan-6987821bb?trk=profile-badge'>Moin Khan</a></div>
+
+<p align="center"><script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script> <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="moin-khan-6987821bb"><a class="LI-simple-link" href='https://pk.linkedin.com/in/moin-khan-6987821bb?trk=profile-badge'>Moin Khan</a></div>
 
 </details>
