@@ -2,7 +2,7 @@
 ### My GitHub Visitors
 ![](https://visitor-badge.glitch.me/badge?page_id=moinakmalkhan)
 ## I'm a Python Developer !!
-- 🔭 I’m currently working on Django and Machine learning.
+- 🔭 I’m currently working on Tkinter, Django and Machine learning.
 - 🌱 I’m currently learning Machine Learning and Deep Learning.
 - 👯 I’m looking to collaborate with other developers.
 - 🥅 2021 Goals: Contribute more to Open Source projects.
