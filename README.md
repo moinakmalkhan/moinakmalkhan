@@ -21,8 +21,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/moinakmalkhan" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="moinakmalkhan" height="30" width="40" /></a>
+<a href="http://wa.me/923167884459" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="whatsapp icon" height="30" width="40" /></a>
+<a href="https://twitter.com/moinakmalkhan" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter icon" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/moinakmalkhan/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="moinakmalkhan" height="30" width="40" /></a>
-<a href="https://fb.com/moinkhansharwani" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="moinkhansharwani" height="30" width="40" /></a>
-<a href="https://instagram.com/moinakmalkhan" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="moinakmalkhan" height="30" width="40" /></a>
+<a href="https://fb.com/moinkhansharwani" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook icon" height="30" width="40" /></a>
+<a href="https://instagram.com/moinakmalkhan" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram icon" height="30" width="40" /></a>
 </p>   
