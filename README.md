@@ -1,7 +1,7 @@
 ### Hi there, I'm Moin Khan 👋
 ### My GitHub Visitors
 ![](https://visitor-badge.glitch.me/badge?page_id=moinakmalkhan)
-## I'm a Python Developer !!
+## I'm a Python and JavaScript Developer !!
 - 🔭 I’m currently working on Tkinter, Django and Machine learning.
 - 🌱 I’m currently learning Machine Learning and Deep Learning.
 - 👯 I’m looking to collaborate with other developers.
